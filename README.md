@@ -1,10 +1,10 @@
-### Hi, i am  Mirian Menezes👋
+### Olá!! Mirian Menezes
 
 
 <div>
   
-  <img align="auto" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icognita&layout=compact&langs_count=16&theme=great-gatsby"/>
-  <img align="auto"  height="" src="https://github-readme-stats.vercel.app/api?username=icognita&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="auto" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icognita&layout=compact&langs_count=16&theme=radical"/>
+  <img align="auto"  height="" src="https://github-readme-stats.vercel.app/api?username=icognita&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 <br>
 
